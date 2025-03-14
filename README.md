@@ -21,7 +21,6 @@
 
 ### Frameworks & Technologies
 [![My Skills](https://skillicons.dev/icons?i=spring,laravel,angular)](https://skillicons.dev)
-<a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jwt.svg"></a>
 <a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"></a>
 <a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"></a>
 
