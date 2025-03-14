@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1> Hello, I'm Luis Troncoso <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<!--
-**luist2/luist2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div size='20px'>
+    <h2> About Me </h2>
+    <ul>
+        <li>🎓 Software Developer with experience in backend development.</li>
+        <li>💼 Specialized in Java and PHP with frameworks like Spring Boot and Laravel.</li>
+        <li>🔍 Passionate about backend technologies, software architecture, and best practices.</li>
+        <li>📫 Contact me:  
+            <a href="mailto:luistroncoso29@hotmail.com">
+                <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail">
+            </a>
+        </li>
+    </ul>
+</div>
 
-Here are some ideas to get you started:
+<h2> My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,cs,sql)](https://skillicons.dev)
+
+### Frameworks & Technologies
+[![My Skills](https://skillicons.dev/icons?i=spring,laravel,angular)](https://skillicons.dev)
+<a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jwt.svg"></a>
+<a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"></a>
+<a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"></a>
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+<a><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg'></a>
+
+### Tools & Development Environments
+[![My Skills](https://skillicons.dev/icons?i=git,postman,androidstudio,visualstudio,docker)](https://skillicons.dev)
+<a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></a>
+
+### Server Administration
+<a><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg'></a> Windows Server
+
+<br>
+
+<br>
