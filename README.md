@@ -17,19 +17,17 @@
 <h2> My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,cs,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,cs,sql&theme=light)](https://skillicons.dev)
 
 ### Frameworks & Technologies
-[![My Skills](https://skillicons.dev/icons?i=spring,laravel,angular)](https://skillicons.dev)
-<a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"></a>
-<a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"></a>
+[![My Skills](https://skillicons.dev/icons?i=spring,laravel,angular,maven,hibernate&theme=light)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase&theme=light)](https://skillicons.dev)
 <a><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg'></a>
 
 ### Tools & Development Environments
-[![My Skills](https://skillicons.dev/icons?i=git,postman,androidstudio,visualstudio,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,androidstudio,vscode,visualstudio,docker&theme=light)](https://skillicons.dev)
 <a><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></a>
 
 ### Server Administration
